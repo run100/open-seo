@@ -1,0 +1,17 @@
+{
+  "run_id": "20261027_0536",
+  "Research_Status": "COMPLETED_WITH_LIMITATIONS",
+  "CSV_Status": "SUCCESS",
+  "Library_Status": "SUCCESS",
+  "GitHub_Status": "SUCCESS_VERIFIED",
+  "Parent_Notification": "FAILED",
+  "Parent_Error": "NOT_FOUND: HTTPException 404 Action not found",
+  "Email_Status": "FAILED_NOT_SENT",
+  "Gmail_Message_ID": "UNVERIFIED",
+  "Recipient": "727271755@qq.com",
+  "Subject": "全球游戏关键词CSV 2026-10-27 05:36",
+  "Marker": [
+    "CHAT_REPORT_READY",
+    "SEND_EMAIL_FROM_PARENT_CHAT"
+  ]
+}
