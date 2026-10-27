@@ -1,0 +1,244 @@
+{
+  "run_id": "20261027_1436",
+  "checked_at": "2026-10-27T14:40:12-07:00",
+  "task_title": "每小时全球游戏关键词CSV-V1-先暂停",
+  "counts": {
+    "games_scanned": 30,
+    "roblox_scanned": 10,
+    "steam_scanned": 10,
+    "other_scanned": 10,
+    "deep_dives": 13,
+    "new_roots": 23,
+    "roblox_roots": 10,
+    "steam_roots": 10,
+    "other_roots": 3,
+    "P0": 0,
+    "P1": 20,
+    "P2": 3,
+    "P3": 0,
+    "evidence_records": 92,
+    "family_coverage_rows": 161,
+    "roblox_fixed_rows": 86,
+    "pending_roots": 9,
+    "top10_audits": 0,
+    "history_combinations_checked": 183
+  },
+  "status": "RESEARCH_COMPLETE_EMAIL_HANDOFF_PENDING",
+  "email_status": "PENDING_PARENT_HANDOFF",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": "727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 14:36",
+  "serp_top10_csv_generated": false,
+  "semrush_api": "no_api_units",
+  "files": {
+    "opportunities": "game_keyword_opportunities_20261027_1436.csv",
+    "evidence": "game_keyword_evidence_20261027_1436.csv",
+    "discovery": "game_discovery_20261027_1436.csv",
+    "root_coverage": "game_root_family_coverage_20261027_1436.csv",
+    "roblox_fixed": "game_roblox_fixed_root_coverage_20261027_1436.csv",
+    "pending": "game_mechanic_derived_pending_20261027_1436.csv",
+    "html": "game_keyword_email_20261027_1436.html"
+  },
+  "top_opportunities": [
+    {
+      "game": "Clover RPG",
+      "root": "Magic Reroll Odds Calculator",
+      "keyword": "clover rpg magic reroll calculator",
+      "priority": "P1",
+      "score": "8.53",
+      "site": "Clover RPG Wiki Calculator",
+      "url": "https://cloverrpg-roblox.wiki/calculator/",
+      "longtail": "clover rpg magic reroll calculator guide"
+    },
+    {
+      "game": "Deep Dish Dungeon",
+      "root": "Recipe Unlock Checklist",
+      "keyword": "deep dish dungeon recipe unlock checklist",
+      "priority": "P1",
+      "score": "8.48",
+      "site": "Deep Dish Dungeon Recipes",
+      "url": "https://deepdishdungeon.online/guides/recipes",
+      "longtail": "deep dish dungeon recipe unlock checklist guide"
+    },
+    {
+      "game": "DayZ Badlands",
+      "root": "Nasdara Interactive Map",
+      "keyword": "dayz badlands nasdara interactive map",
+      "priority": "P1",
+      "score": "8.42",
+      "site": "Nasdara Map",
+      "url": "https://www.nasdaramap.com/map",
+      "longtail": "dayz badlands nasdara interactive map guide"
+    },
+    {
+      "game": "Mycopunk",
+      "root": "Upgrade Grid Layout Planner",
+      "keyword": "mycopunk upgrade grid planner",
+      "priority": "P1",
+      "score": "8.39",
+      "site": "Mycopunk Upgrade Grid",
+      "url": "https://www.mycopunk.space/guides/upgrade-grid",
+      "longtail": "mycopunk upgrade grid planner guide"
+    },
+    {
+      "game": "Anime Mysterious",
+      "root": "Evolution Recipe Planner",
+      "keyword": "anime mysterious evolution recipes",
+      "priority": "P1",
+      "score": "8.25",
+      "site": "Anime Mysterious Sukuna Evolution",
+      "url": "https://animemysterious-wiki.wiki/wiki/crafting/sukuna-evolution/",
+      "longtail": "anime mysterious evolution recipes guide"
+    },
+    {
+      "game": "Age of Empires IV",
+      "root": "Vikings Build Order Planner",
+      "keyword": "aoe4 vikings build order 2026",
+      "priority": "P1",
+      "score": "8.22",
+      "site": "AoE4 Vikings Build Order",
+      "url": "https://aoe4.aoeinfo.net/en/item/3052.html",
+      "longtail": "aoe4 vikings build order 2026 guide"
+    },
+    {
+      "game": "Roll A Stickman",
+      "root": "VOID Card Collection Checklist",
+      "keyword": "roll a stickman void card checklist",
+      "priority": "P1",
+      "score": "8.18",
+      "site": "Roll A Stickman VOID Guide",
+      "url": "https://rollastickman.net/cards/void-card/",
+      "longtail": "roll a stickman void card checklist guide"
+    },
+    {
+      "game": "Deep Dish Dungeon",
+      "root": "Cooking Station Recipe Finder",
+      "keyword": "deep dish dungeon cooking recipes by station",
+      "priority": "P1",
+      "score": "8.13",
+      "site": "Deep Dish Dungeon Recipes",
+      "url": "https://deepdishdungeon.online/guides/recipes",
+      "longtail": "deep dish dungeon cooking recipes by station guide"
+    },
+    {
+      "game": "Morioh High",
+      "root": "Stand Meter Calculator",
+      "keyword": "morioh high stand meter calculator",
+      "priority": "P1",
+      "score": "8.09",
+      "site": "Morioh High Stand Data",
+      "url": "https://games.gg/roblox/guides/morioh-high-tier-list/",
+      "longtail": "morioh high stand meter calculator guide"
+    },
+    {
+      "game": "Mycopunk",
+      "root": "Mycologist Unlock & Build Guide",
+      "keyword": "mycopunk mycologist unlock build",
+      "priority": "P1",
+      "score": "8.05",
+      "site": "Mycopunk Mycologist Guide",
+      "url": "https://mycopunk.net/characters/mycologist/",
+      "longtail": "mycopunk mycologist unlock build guide"
+    },
+    {
+      "game": "Warhammer 40,000: Boltgun 2",
+      "root": "Secrets & Purity Seals Checklist",
+      "keyword": "boltgun 2 all secrets purity seals checklist",
+      "priority": "P1",
+      "score": "8.01",
+      "site": "Boltgun 2 Secrets List",
+      "url": "https://boltgun2.site/missions/secrets",
+      "longtail": "boltgun 2 all secrets purity seals checklist guide"
+    },
+    {
+      "game": "Clover RPG",
+      "root": "Level 15 Grimoire Quest Guide",
+      "keyword": "clover rpg how to get grimoire level 15",
+      "priority": "P1",
+      "score": "7.99",
+      "site": "Clover RPG Magic Quest",
+      "url": "https://cloverrpg.org/how-to-get-magic/",
+      "longtail": "clover rpg how to get grimoire level 15 guide"
+    },
+    {
+      "game": "DayZ Badlands",
+      "root": "Nasdara Water Route Planner",
+      "keyword": "dayz nasdara water route planner",
+      "priority": "P1",
+      "score": "7.95",
+      "site": "Nasdara Map",
+      "url": "https://www.nasdaramap.com/map",
+      "longtail": "dayz nasdara water route planner guide"
+    },
+    {
+      "game": "Valor Mortis",
+      "root": "All Amber Locations Tracker",
+      "keyword": "valor mortis all amber locations tracker",
+      "priority": "P1",
+      "score": "7.92",
+      "site": "Valor Mortis Amber Locations",
+      "url": "https://valormortis.fit/collectibles/all-amber",
+      "longtail": "valor mortis all amber locations tracker guide"
+    },
+    {
+      "game": "EA SPORTS FC 27",
+      "root": "Pro Clubs Archetype AP Calculator",
+      "keyword": "fc 27 pro clubs archetype attribute points calculator",
+      "priority": "P1",
+      "score": "7.89",
+      "site": "Pro11 Specializations",
+      "url": "https://www.pro11.net/pro-clubs-specializations/",
+      "longtail": "fc 27 pro clubs archetype attribute points calculator guide"
+    },
+    {
+      "game": "Roll A Stickman",
+      "root": "Card Odds & Rarity Database",
+      "keyword": "roll a stickman card odds list",
+      "priority": "P1",
+      "score": "7.85",
+      "site": "Roll A Stickman Card Odds",
+      "url": "https://rollastickman.net/cards/",
+      "longtail": "roll a stickman card odds list guide"
+    },
+    {
+      "game": "+1 Venom Evolution",
+      "root": "Evolution Wins & Level Planner",
+      "keyword": "1 venom evolution requirements wins level",
+      "priority": "P1",
+      "score": "7.81",
+      "site": "Venom Evolution Requirements",
+      "url": "https://www.venomevolution.wiki/evolutions/venom-evolution-evolution-requirements",
+      "longtail": "1 venom evolution requirements wins level guide"
+    },
+    {
+      "game": "Mycopunk",
+      "root": "Diffraction Driver Unlock Route",
+      "keyword": "mycopunk diffraction driver unlock",
+      "priority": "P1",
+      "score": "7.78",
+      "site": "Mycopunk Guns List",
+      "url": "https://mycopunk.fun/mycopunk-guns/",
+      "longtail": "mycopunk diffraction driver unlock guide"
+    },
+    {
+      "game": "Morioh High",
+      "root": "Updated 19 Stands Tier List",
+      "keyword": "morioh high 19 stands tier list 2026",
+      "priority": "P1",
+      "score": "7.74",
+      "site": "Pro Game Guides Stand Tier List",
+      "url": "https://progameguides.com/roblox/morioh-high-tier-list-best-stands/",
+      "longtail": "morioh high 19 stands tier list 2026 guide"
+    },
+    {
+      "game": "Deep Dish Dungeon",
+      "root": "Meal Buff Duration Timer",
+      "keyword": "deep dish dungeon food buff timer",
+      "priority": "P1",
+      "score": "7.68",
+      "site": "DDD Food Timer",
+      "url": "https://ddd.fc13.fun/cooking-guide/",
+      "longtail": "deep dish dungeon food buff timer guide"
+    }
+  ]
+}
