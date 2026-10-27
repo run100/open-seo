@@ -1,0 +1,18 @@
+{
+  "cycle_id": "20261027_0739",
+  "root_count": 18,
+  "evidence_rows": 72,
+  "games_scanned": 34,
+  "deep_dive_games": 11,
+  "P0": 0,
+  "P1": 13,
+  "P2": 5,
+  "roblox_roots": 10,
+  "steam_roots": 8,
+  "pending_roots": 7,
+  "serp_top10_audited": 0,
+  "main_csv_location": "Library: /Game Keyword Research/20261027_0739/game_keyword_opportunities_20261027_0739.csv",
+  "evidence_csv_location": "Library: /Game Keyword Research/20261027_0739/game_keyword_evidence_20261027_0739.csv",
+  "email_status": "FAILED_NOT_SENT",
+  "note": "This GitHub index is a 7-column derivative, not the full 85-column CSV. Full CSV and evidence preserved in ChatGPT Library."
+}
