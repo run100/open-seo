@@ -1,0 +1,20 @@
+{
+  "cycle_id": "20261027_1334",
+  "Research_Status": "COMPLETE_WITH_LIMITATIONS",
+  "CSV_Status": "SUCCESS",
+  "Library_Status": "SUCCESS_12_FILES",
+  "GitHub_Status": "SUCCESS_INDEX_AND_SUMMARY",
+  "Parent_Notification": "FAILED_HTTP_404",
+  "Parent_Notification_Error": "NOT_FOUND: HTTP error prior to action invocation. HTTPException: 404: Action not found",
+  "Email_Status": "FAILED_NOT_SENT",
+  "Gmail_Message_ID": "UNVERIFIED",
+  "Recipient": "727271755@qq.com",
+  "Subject": "全球游戏关键词CSV 2026-10-27 13:34",
+  "Root_Count": 18,
+  "P0": 0,
+  "P1": 12,
+  "P2": 6,
+  "Evidence_Count": 51,
+  "Top10_Audits": 0,
+  "Notes": "No Gmail or Resend invoked from background task; historical files retained."
+}
