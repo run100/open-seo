@@ -1,0 +1,28 @@
+{
+  "cycle_id": "20261027_1334",
+  "status": "RESEARCH_COMPLETE_WITH_LIMITATIONS",
+  "games_scanned": 26,
+  "roblox_scanned": 10,
+  "steam_scanned": 10,
+  "other_scanned": 6,
+  "deep_dive_games": 7,
+  "new_roots": 18,
+  "p0": 0,
+  "p1": 12,
+  "p2": 6,
+  "evidence_records": 51,
+  "root_coverage_records": 72,
+  "roblox_fixed_records": 68,
+  "pending": 8,
+  "serp_top10_audits": 0,
+  "email_status": "PENDING_PARENT_HANDOFF",
+  "recipient": "727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 13:34",
+  "library_path": "/Game Keyword Research/20261027_1334/",
+  "notes": [
+    "Main CSV and evidence CSV preserved in Library",
+    "No Top10 audit",
+    "No verified keyword volume or KD",
+    "No background Gmail send"
+  ]
+}
