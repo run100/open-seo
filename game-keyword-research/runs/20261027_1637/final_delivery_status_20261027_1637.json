@@ -1,0 +1,22 @@
+{
+  "run_id": "20261027_1637",
+  "research_status": "COMPLETE_WITH_LIMITATIONS",
+  "csv_status": "SUCCESS",
+  "library_status": "SUCCESS_10_FILES",
+  "github_status": "SUCCESS_4_FILES",
+  "github_commit_ids": {
+    "main_csv": "05940dfec42ff9aa07a5e017fb9bdaa05f78b50d",
+    "evidence_csv": "233766e726aecac8c33cfb880f05e08d39c3e868",
+    "quick_index": "f7116cd43fbec6a736df13bb32ec267172cd0c4a",
+    "summary": "dff59ea0ef44aa88d41b7add1d23c8a675a6abf3"
+  },
+  "parent_notification_status": "FAILED",
+  "parent_notification_error": "NOT_FOUND: HTTP 404: Action not found",
+  "email_status": "FAILED_NOT_SENT",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": "727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 16:37",
+  "next_step": "Parent chat should send email with HTML and CSV attachments; background automation must not call email connectors",
+  "data_limitations": "Keyword Volume/KD/Trends/organic traffic UNVERIFIED; 0 Google Top10 audits; no SERP CSV",
+  "file_retention": "Append-only; no prior files deleted"
+}
