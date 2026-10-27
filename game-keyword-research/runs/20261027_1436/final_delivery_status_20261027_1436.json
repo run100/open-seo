@@ -1,0 +1,48 @@
+{
+  "run_id": "20261027_1436",
+  "research_status": "COMPLETE_WITH_LIMITATIONS",
+  "csv_status": "SUCCESS",
+  "library_status": "SUCCESS",
+  "github_status": "SUCCESS_QUICK_INDEX_AND_SUMMARY",
+  "parent_notification_status": "FAILED",
+  "parent_notification_error": "NOT_FOUND: HTTP 404 Action not found",
+  "email_status": "FAILED_NOT_SENT",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": "727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 14:36",
+  "counts": {
+    "games_scanned": 30,
+    "roblox_scanned": 10,
+    "steam_scanned": 10,
+    "other_scanned": 10,
+    "deep_dives": 13,
+    "new_roots": 23,
+    "roblox_roots": 10,
+    "steam_roots": 10,
+    "other_roots": 3,
+    "P0": 0,
+    "P1": 20,
+    "P2": 3,
+    "P3": 0,
+    "evidence_records": 92,
+    "family_coverage_rows": 161,
+    "roblox_fixed_rows": 86,
+    "pending_roots": 9,
+    "top10_audits": 0,
+    "history_combinations_checked": 183
+  },
+  "github": {
+    "repository": "run100/open-seo",
+    "quick_index_path": "game-keyword-research/runs/20261027_1436/game_keyword_quick_index_20261027_1436.csv",
+    "quick_index_commit": "ad5095ef90c658e44397ac5f1adb0ba0b562cbcb",
+    "summary_path": "game-keyword-research/runs/20261027_1436/run_summary_20261027_1436.json",
+    "summary_commit": "d884878d621c5021c80d61a98c91dd8290200113"
+  },
+  "diagnostics": [
+    "Semrush API no_api_units: Keyword Volume/KD/traffic UNVERIFIED",
+    "No comparable Google Trends time series: UNVERIFIED",
+    "No Google Top10 audit: no SERP CSV generated",
+    "No email connector called per parent-chat handoff policy",
+    "All historical files preserved"
+  ]
+}
