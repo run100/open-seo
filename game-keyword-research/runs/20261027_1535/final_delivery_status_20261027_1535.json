@@ -1,0 +1,23 @@
+{
+  "run_id": "20261027_1535",
+  "research_status": "COMPLETE_WITH_LIMITATIONS",
+  "qualified_roots": 13,
+  "p0": 0,
+  "p1": 10,
+  "p2": 3,
+  "evidence_rows": 42,
+  "mechanic_pending": 9,
+  "top10_audits": 0,
+  "library_status": "SUCCESS",
+  "github_status": "SUCCESS_INDEX_AND_SUMMARY",
+  "github_index_commit": "d9f1991ea06a45ae4c5c74688b40e3347ce5fef4",
+  "github_summary_commit": "c6f655b5c9284f65cf0ba87f42f88938d486bb6d",
+  "parent_notification": "FAILED_HTTP_404_ACTION_NOT_FOUND",
+  "parent_error": "NOT_FOUND: HTTP error prior to action invocation. HTTPException: 404: Action not found",
+  "email_status": "FAILED_NOT_SENT",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": "727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 15:35",
+  "background_email_prohibited": true,
+  "files_preserved": true
+}
