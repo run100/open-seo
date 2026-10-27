@@ -1,0 +1,23 @@
+{
+  "cycle_id": "20261027_0637",
+  "status": "RESEARCH_COMPLETED_WITH_LIMITATIONS",
+  "scanned": 34,
+  "deep_dive_games": 9,
+  "roots": 18,
+  "p0": 0,
+  "p1": 11,
+  "p2": 7,
+  "roblox": 8,
+  "steam": 9,
+  "other": 1,
+  "evidence": 65,
+  "mechanic_pending": 7,
+  "serp_top10_audits": 0,
+  "email_status": "FAILED_NOT_SENT_BACKGROUND_POLICY",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": "727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 06:37",
+  "main_csv_location": "/Game Keyword Research/20261027_0637/game_keyword_opportunities_20261027_0637.csv",
+  "evidence_csv_location": "/Game Keyword Research/20261027_0637/game_keyword_evidence_20261027_0637.csv",
+  "note": "GitHub index is compact; complete 85-column UTF-8 CSV and 16-column evidence CSV are preserved in Library. Ordinary web search is not Google Top10 audit. Keyword Volume, KD, organic traffic and Google Trends remain UNVERIFIED."
+}
