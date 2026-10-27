@@ -1,0 +1,25 @@
+{
+  "cycle": "20261027_1235",
+  "Research_Status": "COMPLETE_WITH_LIMITATIONS",
+  "CSV_Status": "SUCCESS",
+  "Library_Status": "SUCCESS",
+  "GitHub_Status": "SUCCESS_INDEX_AND_SUMMARY",
+  "GitHub_Quick_Index_Commit": "8fdb51d0c81bcc5c5356d5221e94c611e5e5372f",
+  "GitHub_Summary_Commit": "5e533c54e74bba045a7bf64ed4d84f04bb1ca417",
+  "Parent_Notification_Status": "FAILED",
+  "Parent_Notification_Error": "HTTP 404 Action not found",
+  "Email_Status": "FAILED_NOT_SENT",
+  "Gmail_Message_ID": "UNVERIFIED",
+  "Recipient": "727271755@qq.com",
+  "Subject": "全球游戏关键词CSV 2026-10-27 12:35",
+  "Main_CSV": "game_keyword_opportunities_20261027_1235.csv",
+  "Evidence_CSV": "game_keyword_evidence_20261027_1235.csv",
+  "SERP_CSV": "NOT_CREATED_NO_TOP10_AUDIT",
+  "Generated_At": "2026-10-27T12:35:39-07:00",
+  "Notes": [
+    "Automations notify_parent called and failed 404",
+    "Gmail not called due to explicit background task restriction",
+    "Ahrefs API units exhausted; keyword metrics UNVERIFIED",
+    "Preserved all previous cycle files"
+  ]
+}
