@@ -1,0 +1,16 @@
+{
+  "cycle": "20261027_1032",
+  "Research_Status": "COMPLETED_WITH_LIMITATIONS",
+  "Main_CSV": "SUCCESS_LIBRARY",
+  "Evidence_CSV": "SUCCESS_LIBRARY",
+  "GitHub_Status": "QUICK_INDEX_AND_SUMMARY_VERIFIED",
+  "Google_Top10_Audited": 0,
+  "Email_Status": "FAILED_NOT_SENT",
+  "Gmail_Message_ID": "UNVERIFIED",
+  "Recipient": "727271755@qq.com",
+  "Subject": "全球游戏关键词CSV 2026-10-27 10:32",
+  "Parent_Notification": "FAILED_HTTP_404",
+  "Error": "NOT_FOUND: HTTPException 404: Action not found",
+  "Full_Files_Library": "/Game Keyword Research/20261027_1032/",
+  "History_Delete_Count": 0
+}
