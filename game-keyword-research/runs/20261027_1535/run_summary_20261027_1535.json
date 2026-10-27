@@ -1,0 +1,31 @@
+{
+  "run_id": "20261027_1535",
+  "checked_at": "2026-10-27T15:35:00-07:00",
+  "status": "COMPLETE_WITH_LIMITATIONS",
+  "discovery_candidates": 32,
+  "roblox_candidates": 12,
+  "steam_candidates": 10,
+  "other_candidates": 10,
+  "deep_dive_games": 12,
+  "qualified_roots": 13,
+  "evidence_rows": 42,
+  "p0": 0,
+  "p1": 10,
+  "p2": 3,
+  "pending_roots": 9,
+  "google_top10_audits": 0,
+  "historical_keys_compared": 189,
+  "main_csv": "/Game Keyword Research/20261027_1535/game_keyword_opportunities_20261027_1535.csv",
+  "evidence_csv": "/Game Keyword Research/20261027_1535/game_keyword_evidence_20261027_1535.csv",
+  "html_report": "/Game Keyword Research/20261027_1535/game_keyword_email_20261027_1535.html",
+  "email_status": "NOT_SENT_PARENT_HANDOFF_REQUIRED",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": "727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 15:35",
+  "limitations": [
+    "No full Google Top10 audit",
+    "Keyword Volume/KD/organic traffic/Trends UNVERIFIED",
+    "Nine mechanic-derived roots excluded from main CSV",
+    "Background email prohibited; parent chat handoff required"
+  ]
+}
