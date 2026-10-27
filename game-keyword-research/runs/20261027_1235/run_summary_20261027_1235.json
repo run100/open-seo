@@ -1,0 +1,30 @@
+{
+  "cycle": "20261027_1235",
+  "run_status": "RESEARCH_COMPLETE_EMAIL_HANDOFF_PENDING",
+  "root_count": 18,
+  "P0": 0,
+  "P1": 15,
+  "P2": 3,
+  "roblox_roots": 8,
+  "steam_roots": 8,
+  "other_roots": 2,
+  "games_scanned": 30,
+  "deep_dive_games": 9,
+  "evidence_count": 53,
+  "coverage_count": 92,
+  "roblox_fixed_count": 112,
+  "pending_count": 8,
+  "top10_audited": 0,
+  "historical_dedup_pairs": 147,
+  "Email_Status": "FAILED_NOT_SENT",
+  "Gmail_Message_ID": "UNVERIFIED",
+  "Recipient": "727271755@qq.com",
+  "Subject": "全球游戏关键词CSV 2026-10-27 12:35",
+  "Checked_At": "2026-10-27T12:35:39-07:00",
+  "notes": [
+    "Ahrefs API units exhausted",
+    "No real Google Top10 audit; no SERP CSV",
+    "Official events confirmed; exact keywords do not imply volume",
+    "Do not send Gmail from automation"
+  ]
+}
