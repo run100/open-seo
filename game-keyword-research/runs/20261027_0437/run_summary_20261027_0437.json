@@ -1,0 +1,37 @@
+{
+  "task_title": "全球游戏关键词 / 游戏趋势 / 游戏建站机会研究",
+  "run_id": "20261027_0437",
+  "status": "RESEARCH_COMPLETE_EMAIL_HANDOFF_PENDING",
+  "counts": {
+    "discovery": 26,
+    "roblox_scanned": 12,
+    "steam_scanned": 9,
+    "other_scanned": 5,
+    "deep_dive_games": 13,
+    "main_roots": 17,
+    "roblox_roots": 6,
+    "steam_roots": 7,
+    "other_roots": 4,
+    "p0": 0,
+    "p1": 11,
+    "p2": 6,
+    "evidence_rows": 51,
+    "pending_roots": 5,
+    "google_top10_audits": 0,
+    "emerging_verified": 0
+  },
+  "local_files": [
+    "game_keyword_opportunities_20261027_0437.csv",
+    "game_keyword_evidence_20261027_0437.csv",
+    "game_keyword_email_20261027_0437.html"
+  ],
+  "email_status": "PENDING_PARENT_CHAT",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": "727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 04:37",
+  "notes": [
+    "GitHub holds compact index+summary; full files are local in automation run",
+    "No Gmail send in automation",
+    "Historical outputs append-only"
+  ]
+}
