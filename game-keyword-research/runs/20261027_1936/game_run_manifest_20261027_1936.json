@@ -1,0 +1,38 @@
+{
+  "run_id": "20261027_1936",
+  "run_status": "COMPLETE_WITH_LIMITATIONS",
+  "checked_at": "2026-10-27 19:36 PDT",
+  "counts": {
+    "discovery": 28,
+    "deep_dive": 10,
+    "roots": 19,
+    "p0": 0,
+    "p1": 11,
+    "p2": 8,
+    "roblox": 10,
+    "steam": 7,
+    "other": 2,
+    "evidence": 64,
+    "coverage": 102,
+    "fixed": 80,
+    "pending": 7,
+    "top10_audits": 0,
+    "emerging_verified": 0
+  },
+  "email_status": "NOT_SENT_BACKGROUND_HANDOFF",
+  "gmail_message_id": "UNVERIFIED",
+  "recipients": [
+    "chromevw@gmail.com",
+    "727271755@qq.com"
+  ],
+  "subject": "全球游戏关键词CSV 2026-10-27 19:36",
+  "github_status": "PENDING",
+  "library_status": "PENDING",
+  "notes": [
+    "Ahrefs API workspace units_limit=0; exact Keyword Volume/KD not available",
+    "No full Google Top10 audit; no SERP CSV",
+    "No verified comparable Google Trends series",
+    "Source page existence != Google search volume",
+    "Historical snapshots not deleted"
+  ]
+}
