@@ -1,0 +1,45 @@
+{
+  "cycle": "20261027_1731",
+  "local_time": "2026-10-27T17:31:42-07:00",
+  "discovery_count": 26,
+  "deep_dive_games": 8,
+  "roots": 15,
+  "P0": 0,
+  "P1": 10,
+  "P2": 5,
+  "Roblox": 7,
+  "Steam_PC": 7,
+  "other": 1,
+  "evidence_records": 58,
+  "pending_roots": 9,
+  "root_coverage_rows": 104,
+  "roblox_fixed_coverage_rows": 58,
+  "top10_audits": 0,
+  "email_status": "NOT_SENT_PARENT_HANDOFF_PENDING",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": "727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 17:31",
+  "github_status": "SUCCESS",
+  "limitations": [
+    "Ahrefs API units exhausted",
+    "No full Google Top10 audits",
+    "No Google Trends time-series",
+    "Prior historical dedup limited to latest run"
+  ],
+  "github_paths": [
+    "game_keyword_opportunities_20261027_1731.csv",
+    "game_keyword_evidence_20261027_1731.csv",
+    "game_keyword_quick_index_20261027_1731.csv",
+    "game_discovery_20261027_1731.csv",
+    "game_root_family_coverage_20261027_1731.csv",
+    "game_roblox_fixed_root_coverage_20261027_1731.csv"
+  ],
+  "github_commits": [
+    "37282f5babbf4515d3012ad2a0954fa435ae3379",
+    "a55316ddf680e444e9c88508074f1c0b717aab29",
+    "7e7add4f6c0cc377bd16f28e42187dc570ae6c05",
+    "37e3d68c169dbabff83875cbedfffacc63c9645d",
+    "c06b7dbd4789a52e6bd18eb1165ab15b3e3b2b5c",
+    "a3b41502bd9f510eaaa87ad7c2547aa60e98ab1b"
+  ]
+}
