@@ -1,0 +1,39 @@
+{
+  "Task": "每小时全球游戏关键词CSV-V1-先暂停",
+  "Run_ID": "20261027_2038",
+  "Checked_At": "2026-10-27T20:38:49-07:00",
+  "Research_Status": "COMPLETE_WITH_LIMITATIONS",
+  "Counts": {
+    "Discovery_Games": 34,
+    "Roblox_Scanned": 12,
+    "Steam_Scanned": 12,
+    "Other_Scanned": 10,
+    "Deep_Dive": 11,
+    "Roots": 19,
+    "P0": 0,
+    "P1": 11,
+    "P2": 8,
+    "Roblox_Roots": 10,
+    "Steam_Roots": 9,
+    "Evidence_Rows": 105,
+    "Coverage_Rows": 117,
+    "Fixed_Taxonomy_Rows": 73,
+    "Pending": 8,
+    "Top10_Audits": 0
+  },
+  "Email_Status": "NOT_SENT_BACKGROUND_HANDOFF",
+  "Gmail_Message_ID": "UNVERIFIED",
+  "Recipient": "chromevw@gmail.com,727271755@qq.com",
+  "Subject": "全球游戏关键词CSV 2026-10-27 20:38",
+  "Limitations": [
+    "No exact keyword volume/KD/page organic traffic/site visits",
+    "No comparable Google Trends time series",
+    "No Google Top10 audit",
+    "Some secondary sites conflict on Moon Sweepers prices and 4 Penny Coffins availability",
+    "Historical files retained"
+  ],
+  "Markers": [
+    "CHAT_REPORT_READY",
+    "SEND_EMAIL_FROM_PARENT_CHAT"
+  ]
+}
