@@ -1,0 +1,29 @@
+{
+  "run_id": "20261028_0038",
+  "research_status": "COMPLETE_WITH_LIMITATIONS",
+  "library_status": "SUCCESS",
+  "library_path": "/Game Keyword Research/20261028_0038/",
+  "github_status": "SUCCESS",
+  "github_last_commit": "7489afcb2efb0aac9c6966717d2c20bb9663c047",
+  "parent_handoff_status": "FAILED",
+  "parent_handoff_error": "NOT_FOUND: HTTP 404 Action not found",
+  "email_status": "FAILED_NOT_SENT",
+  "gmail_message_id": "UNVERIFIED",
+  "recipients": [
+    "chromevw@gmail.com",
+    "727271755@qq.com"
+  ],
+  "subject": "全球游戏关键词CSV 2026-10-28 00:38",
+  "counts": {
+    "roots": 15,
+    "p0": 0,
+    "p1": 14,
+    "p2": 1,
+    "evidence": 50,
+    "discovery": 34,
+    "deep_dive": 13,
+    "pending": 4,
+    "top10_audits": 0
+  },
+  "notes": "No Gmail/Resend calls in background; parent handoff failed 404; preserve artifacts."
+}
