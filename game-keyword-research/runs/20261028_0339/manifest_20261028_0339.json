@@ -1,0 +1,48 @@
+{
+  "run_id": "20261028_0339",
+  "local_time": "2026-10-28 03:39 PDT",
+  "research_status": "SUCCESS",
+  "library_status": "SUCCESS",
+  "email_status": "NOT_SENT",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": [
+    "chromevw@gmail.com",
+    "727271755@qq.com"
+  ],
+  "subject": "全球游戏关键词CSV 2026-10-28 03:39",
+  "counts": {
+    "main_roots": 19,
+    "p0": 0,
+    "p1": 15,
+    "p2": 4,
+    "roblox": 9,
+    "steam": 6,
+    "other": 4,
+    "evidence": 76,
+    "discovery": 36,
+    "deep_dive": 11,
+    "root_coverage": 112,
+    "roblox_fixed": 88,
+    "pending": 8,
+    "top10": 0,
+    "repeats": 0
+  },
+  "library_path": "/Game Keyword Research/20261028_0339/",
+  "files": [
+    "game_keyword_opportunities_20261028_0339.csv",
+    "game_keyword_evidence_20261028_0339.csv",
+    "game_discovery_20261028_0339.csv",
+    "game_root_coverage_20261028_0339.csv",
+    "game_roblox_fixed_taxonomy_20261028_0339.csv",
+    "game_mechanic_pending_20261028_0339.csv",
+    "game_keyword_email_20261028_0339.html",
+    "game_keyword_research_20261028_0339_delivery.zip"
+  ],
+  "serp_top10": "NOT_GENERATED",
+  "metric_policy": "Volume/KD/Traffic/Google Trends UNVERIFIED",
+  "parent_markers": [
+    "CHAT_REPORT_READY",
+    "SEND_EMAIL_FROM_PARENT_CHAT"
+  ],
+  "archive_policy": "Append only"
+}
