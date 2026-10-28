@@ -1,0 +1,26 @@
+{
+  "run_id": "20261028_0239",
+  "checked_at": "2026-10-28T02:39:37-07:00",
+  "main_roots": 19,
+  "p0": 0,
+  "p1": 12,
+  "p2": 7,
+  "roblox": 7,
+  "steam": 9,
+  "other": 3,
+  "discovery_games": 34,
+  "deep_dive_games": 10,
+  "evidence_rows": 67,
+  "coverage_rows": 161,
+  "roblox_fixed_rows": 95,
+  "pending_roots": 8,
+  "serp_top10_audits": 0,
+  "email_status": "NOT_SENT_BACKGROUND_HANDOFF_ONLY",
+  "recipient": [
+    "chromevw@gmail.com",
+    "727271755@qq.com"
+  ],
+  "subject": "全球游戏关键词CSV 2026-10-28 02:39",
+  "gmail_message_id": "UNVERIFIED",
+  "source_policy": "No numeric SEO metrics without verified source; no fake Top10; no historical deletion"
+}
