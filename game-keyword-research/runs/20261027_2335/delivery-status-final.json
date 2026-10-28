@@ -1,0 +1,28 @@
+{
+  "run_id": "20261027_2335",
+  "research_status": "COMPLETE_WITH_LIMITATIONS",
+  "csv_status": "SUCCESS",
+  "library_status": "SUCCESS",
+  "github_status": "SUCCESS_COMPACT_INDEX_AND_SUMMARY",
+  "github_commits": [
+    "a1f4a184faad8252d75e15d1acd8163d174e2fce",
+    "ec30dc2853666c750644ae6cee4804a33230444f"
+  ],
+  "parent_notification": "FAILED_HTTP_404_ACTION_NOT_FOUND",
+  "email_status": "FAILED_NOT_SENT",
+  "gmail_message_id": "UNVERIFIED",
+  "recipient": "chromevw@gmail.com,727271755@qq.com",
+  "subject": "全球游戏关键词CSV 2026-10-27 23:35",
+  "counts": {
+    "games_scanned": 34,
+    "deep_dive": 13,
+    "roots": 14,
+    "P0": 0,
+    "P1": 8,
+    "P2": 6,
+    "evidence": 54,
+    "pending": 10,
+    "top10_audits": 0
+  },
+  "diagnostics": "Background Gmail/Resend prohibited. Parent notify_parent attempted and failed HTTP 404 Action not found. Neither recipient emailed. Full CSV/HTML/ZIP in Library /Game Keyword Research/20261027_2335/; SEO metrics UNVERIFIED."
+}
