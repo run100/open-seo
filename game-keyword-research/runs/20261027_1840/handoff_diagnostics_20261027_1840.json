@@ -1,0 +1,16 @@
+{
+  "run_id": "20261027_1840",
+  "parent_handoff": "FAILED",
+  "attempts": 2,
+  "error": "NOT_FOUND HTTP 404 Action not found (prior to action invocation)",
+  "email_status": "FAILED_NOT_SENT",
+  "gmail_message_id": "UNVERIFIED",
+  "recipients": [
+    "chromevw@gmail.com",
+    "727271755@qq.com"
+  ],
+  "research_status": "COMPLETE_WITH_LIMITATIONS",
+  "library_status": "SUCCESS",
+  "github_status": "SUCCESS",
+  "note": "Background automation prohibited from Gmail/Resend. Parent notification endpoint failed. CSV and HTML preserved."
+}
