@@ -1,0 +1,27 @@
+{
+  "run_id": "20261028_0137",
+  "research": "SUCCESS",
+  "library": "SUCCESS",
+  "github": "INDEX_AND_SUMMARY_SUCCESS",
+  "parent_notify": "FAILED_HTTP_404",
+  "email_status": "FAILED_NOT_SENT",
+  "gmail_message_id": "UNVERIFIED",
+  "recipients": [
+    "chromevw@gmail.com",
+    "727271755@qq.com"
+  ],
+  "subject": "全球游戏关键词CSV 2026-10-28 01:37",
+  "counts": {
+    "discovery": 34,
+    "roots": 16,
+    "p0": 0,
+    "p1": 10,
+    "p2": 6,
+    "evidence": 46,
+    "roblox_roots": 7,
+    "steam_pc_roots": 9,
+    "pending": 10
+  },
+  "files_in_library": "/Game Keyword Research/20261028_0137/",
+  "notes": "Full 85-column CSV and evidence CSV in Library, GitHub contains root index and summary only; do not claim email sent."
+}
