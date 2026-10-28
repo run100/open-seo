@@ -1,0 +1,31 @@
+{
+  "run_id": "20261028_0038",
+  "checked_at": "2026-10-28T00:38:00-07:00",
+  "main_rows": 15,
+  "p0": 0,
+  "p1": 14,
+  "p2": 1,
+  "roblox_rows": 7,
+  "steam_pc_rows": 8,
+  "discovery_games": 34,
+  "deep_dive_games": 13,
+  "evidence_rows": 50,
+  "root_family_rows": 148,
+  "roblox_fixed_rows": 103,
+  "pending_rows": 4,
+  "historical_rows_compared": 175,
+  "serp_top10_audits": 0,
+  "email_status": "NOT_SENT_PARENT_HANDOFF",
+  "gmail_message_id": "UNVERIFIED",
+  "recipients": [
+    "chromevw@gmail.com",
+    "727271755@qq.com"
+  ],
+  "subject": "全球游戏关键词CSV 2026-10-28 00:38",
+  "data_limitations": [
+    "No Ahrefs units",
+    "Google Trends unverified",
+    "No complete Top10 audit",
+    "Some independent guides not official playtest"
+  ]
+}
